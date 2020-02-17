@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "背景音乐", "背景音乐\背景音乐.pyproj", "{60C1E901-3C6E-4BA0-B8D5-41429F1E5631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60C1E901-3C6E-4BA0-B8D5-41429F1E5631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C1E901-3C6E-4BA0-B8D5-41429F1E5631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2545C7B6-D962-4348-9F5B-3CA4B56D8AE4}
+	EndGlobalSection
+EndGlobal
